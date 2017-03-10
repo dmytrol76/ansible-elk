@@ -1,0 +1,5 @@
+[elk]
+localhost
+
+[elk-client]
+localhost
